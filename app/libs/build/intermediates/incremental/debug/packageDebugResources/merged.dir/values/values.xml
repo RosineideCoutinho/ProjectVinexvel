@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="Beige">#F5F5DC</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Cyan">#00FFFF</color>
+    <color name="DarkOrange">#FF8C00</color>
+    <color name="DarkOrchid">#9932CC</color>
+    <color name="DarkTurquoise">#0000CD</color>
+    <color name="Dark_Blue">#00008b</color>
+    <color name="Darkblue">#00CED1</color>
+    <color name="DeepPin">#FF1493</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="Green">#00FF00</color>
+    <color name="Green_700">#4cc984</color>
+    <color name="HotPink">#FF69B4</color>
+    <color name="LightCoral">#F08080</color>
+    <color name="LightGoldenrod">#EEDD82</color>
+    <color name="LightSkyBlue">#87CEFA</color>
+    <color name="MediumSeaGreen">#3CB371</color>
+    <color name="Orchid">#DA70D6</color>
+    <color name="PaleGreen">#98FB98</color>
+    <color name="Salmon">#FA8072</color>
+    <color name="SpringGreen">#00FF7F</color>
+    <color name="Thistle">#D8BFD8</color>
+    <color name="Violet">#EE82EE</color>
+    <color name="Yellow">#FFFF00</color>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Vinexvel</string>
+    <string name="capturar_imagem">Capturar Imagem</string>
+    <string name="entrar">Entrar</string>
+    <string name="escolher_opçoes">Escolher Opcoes</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tex_admi">Admi</string>
+    <string name="text_atualizar">Atualizar agora</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="text_deslogar">Deslogar</string>
+    <string name="text_home">Home</string>
+    <string name="text_imagem">Imagemlogopng</string>
+    <string name="text_sair">sair</string>
+    <string name="text_serviços">Serviços</string>
+    <string name="text_tirar_foto">take a picture</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="visualizar_imagem">Visualizar Imagem</string>
+    <style name="ContainerComponents">
+
+  <item name="android:layout_width">match_parent</item>
+  <item name="android:layout_height">250dp</item>
+  <item name="android:background">@drawable/container_components</item>
+  <item name="android:layout_margin">20dp</item>
+
+</style>
+    <style name="Edit_Text">
+
+   <item name="android:layout_width">match_parent</item>
+   <item name="android:layout_height">wrap_content</item>
+   <item name="android:background">@drawable/edit_text</item>
+   <item name="android:padding">20dp</item>
+     <item name="android:maxLength">25</item>
+    <item name="android:layout_marginLeft">40dp</item>
+     <item name="android:layout_marginRight">40dp</item>
+     <item name="android:layout_marginTop">15dp</item>
+ </style>
+    <style name="Theme.Vinexvel" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="button">
+     <item name="android:layout_width">match_parent</item>
+      <item name="android:layout_height">wrap_content</item>
+       <item name="android:layout_marginLeft">40dp</item>
+       <item name="android:layout_marginRight">40dp</item>
+       <item name="android:layout_marginTop">15dp</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">false</item>
+       <item name="android:background">@drawable/button</item>
+
+    </style>
+</resources>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="text_hint_nome">Nome</string>
+    <string name="text_hint_senha">Senha</string>
+    <string name="text_hint_email">Email</string>
+    <string name="app_name">Vinexvel</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="text_atualizar">Atualizar agora</string>
+    <string name="text_sair">sair</string>
+    <string name="text_deslogar">Deslogar</string>
+    <string name="text_tirar_foto">take a picture</string>
+    <string name="text_home">Home</string>
+    <string name="tex_admi">Admi</string>
+    <string name="text_serviços">Serviços</string>
+    <string name="text_imagem">Imagemlogopng</string>
+
+    <string name="title_cadastro">Cadastre-se</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="capturar_imagem">Capturar Imagem</string>
+    <string name="visualizar_imagem">Visualizar Imagem</string>
+    <string name="escolher_opçoes">Escolher Opcoes</string>
+
+
+</resources>

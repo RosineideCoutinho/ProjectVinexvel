@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\layout_fragment_frag_admi.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\layout\\fragment_frag_admi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_container_user.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\container_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_imglogo7.png.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\imglogo7.png"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_edit_text.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\edit_text.xml"
+    },
+    {
+        "merged": "com.rosineidecout.vinexvel.app-merged_res-29:/layout_activity_camera_studio.xml.flat",
+        "source": "com.rosineidecout.vinexvel.app-main-31:/layout/activity_camera_studio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\layout_activity_tela_servicos_frat.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\layout\\activity_tela_servicos_frat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable-v24_img_1.png.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable-v24\\img_1.png"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\layout_activity_gps_location.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\layout\\activity_gps_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_logocamera.png.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\logocamera.png"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\layout_activity_form_login.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\layout\\activity_form_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_container_components.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\container_components.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_user1.png.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\user1.png"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\layout_activity_camera_studio.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\layout\\activity_camera_studio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_imglogo.png.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\imglogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\layout_fragment_frag_home.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\layout\\fragment_frag_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_ic__person.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\ic__person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_imglogo2.png.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\imglogo2.png"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_eledomest.jpg.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\eledomest.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_ic_compras.png.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\ic_compras.png"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_ic_email55.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\ic_email55.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\layout_activity_tela_principal.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\layout\\activity_tela_principal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_imglogo1.png.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\imglogo1.png"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_ic_logo.png.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\ic_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_background.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_compras.png.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\compras.png"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_moveis.jpg.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\moveis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_ic_eye.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\ic_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\layout_activity_form_cadastro.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\layout\\activity_form_cadastro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_imagemtec.jpg.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\imagemtec.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_button_fragment.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\button_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\layout_fragment_frag_servicos.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\layout\\fragment_frag_servicos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable-v24_img.png.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable-v24\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_ic_eye_verde.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\ic_eye_verde.xml"
+    },
+    {
+        "merged": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-merged_res-29:\\drawable_button.xml.flat",
+        "source": "C:\\Users\\Reinaldo\\.gradle\\daemon\\7.3.3\\com.rosineidecout.vinexvel.app-main-31:\\drawable\\button.xml"
+    }
+]
